@@ -1,2 +1,5 @@
-# indexed-search
- A C# console program that indexes specified folders and then can quickly find a specified file in them
+# Console program forindexed search
+A C# script that indexes specified folders and then can quickly find a specified file in them.
+
+## How to use
+Run Program.cs and follow console promts.
